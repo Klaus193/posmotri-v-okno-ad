@@ -9,3 +9,4 @@
 - HTML5
 - CSS3 (Flexbox, Grid, кастомные элементы форм, состояния `:focus-visible`)
 - JavaScript (работа с DOM, Fetch API)
+https://github.com/Klaus193/posmotri-v-okno-ad
